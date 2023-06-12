@@ -1,0 +1,38 @@
+body{
+    background-image: url(recursos/tms.jpg);
+    color: aliceblue;
+}
+
+nav{
+    text-align: right;
+    padding: 30px 50px 0 0;
+}
+nav > a{
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 16px;
+}
+nav > a:hover{
+  text-decoration: underline;
+}
+.logo{
+    width: 120px;
+    height: 60;
+}
+.let{
+    width: 750px;
+    height: 350px;
+}
+.ter{
+    position: absolute;
+    padding: 0px 100px;
+}
+p{
+    font-size: 22px;
+}
+button{
+    background-color: black; opacity: 0.5;
+    color: white;
+    border: none;
+}
